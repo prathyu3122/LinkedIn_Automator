@@ -7,7 +7,8 @@
 > While hiring process, the task of downloading every applicants resume is a tough work. This automation helps a recruiter to automatically download every applicants resumes and moves to a particular newly created folder (created by this automator) which will be in our current working directory.
 
 #### Requirements to be installed:
-> Selenium - pip install selenium
+
+> selenium 3.141.0 - pip install selenium
 
 > lxml 4.6.3 - pip install lxml
 
